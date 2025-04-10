@@ -1,0 +1,72 @@
+{
+  "produtos": [
+    {
+      "nome": "SOFÁ MODULAR CANTO SOFO",
+      "preço": "R$ 2.549,00",
+      "imagem": "https://github.com/niedjaraujos/api-loja-virtual-proGirls/blob/main/banco/modular.png?raw=true"
+    },
+    {
+      "nome": "SOFÁ-CAMA RETRÁTIL E RECLINÁVEL 3 LUGARES SNOOZE",
+      "preço": "R$ 6.899,00",
+      "imagem": "https://github.com/niedjaraujos/api-loja-virtual-proGirls/blob/main/banco/snooze.png?raw=true"
+    },
+    {
+      "nome": "SOFÁ 3 LUGARES NORMAND",
+      "preço": "R$ 6.849,00",
+      "imagem": "https://github.com/niedjaraujos/api-loja-virtual-proGirls/blob/main/banco/normand.png?raw=true"
+    },
+    {
+      "nome": "SOFÁ MODULAR GROUP",
+      "preço": "R$ 2.549,00",
+      "imagem": "https://github.com/niedjaraujos/api-loja-virtual-proGirls/blob/main/banco/group.png"
+    },
+    {
+      "nome": "SOFÁ RETRÁTIL 3 LUGARES SHELTER",
+      "preço": "R$ 9.449,00",
+      "imagem": "https://github.com/niedjaraujos/api-loja-virtual-proGirls/blob/main/banco/retratil.png?raw=true"
+    },
+    {
+      "nome": "SOFÁ 2 LUGARES C/ ALMOFADAS LEME",
+      "preço": "R$ 3.938,70",
+      "imagem": "https://github.com/niedjaraujos/api-loja-virtual-proGirls/blob/main/banco/Leme.png"
+    },
+
+    {
+      "nome": "MESA COM 4 CADEIRAS NOAH",
+      "preço": "R$ 1.918,60",
+      "imagem": "https://github.com/niedjaraujos/api-loja-virtual-proGirls/blob/main/banco/noah.png?raw=true"
+    },
+    {
+      "nome": "MESA REDONDA OVNI",
+      "preço": "R$ 1.649,00",
+      "imagem": "https://raw.githubusercontent.com/niedjaraujos/api-loja-virtual-proGirls/refs/heads/main/banco/ovni.webp"
+    },
+    {
+      "nome": "MESA DE CENTRO REDONDA RIBS",
+      "preço": "R$ 1.849,00",
+      "imagem": "https://github.com/niedjaraujos/api-loja-virtual-proGirls/blob/main/banco/ribs.png?raw=true"
+    },
+    {
+      "id": "",
+      "nome": "MESA ALLURE",
+      "preço": "R$ 3.399,00",
+      "imagem": "https://github.com/niedjaraujos/api-loja-virtual-proGirls/blob/main/banco/allure.png"
+    },
+
+    {
+      "nome": "RACK COM PALHINHA ARES",
+      "preço": "R$ 4.049,00",
+      "imagem": "https://github.com/niedjaraujos/api-loja-virtual-proGirls/blob/main/banco/ares.png"
+    },
+    {
+      "nome": "RACK KUMO",
+      "preço": "R$ 1.549,00",
+      "imagem": "https://raw.githubusercontent.com/niedjaraujos/api-loja-virtual-proGirls/refs/heads/main/banco/kumo.webp"
+    },
+    {
+      "nome": "RACK NASH",
+      "preço": "R$ 2.649,00",
+      "imagem": "https://github.com/niedjaraujos/api-loja-virtual-proGirls/blob/main/banco/nash.png?raw=true"
+    }
+  ]
+}
