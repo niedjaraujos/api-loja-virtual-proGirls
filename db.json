@@ -18,7 +18,7 @@
     {
       "nome": "SOFÁ MODULAR GROUP",
       "preço": "R$ 2.549,00",
-      "imagem": "https://github.com/niedjaraujos/api-loja-virtual-proGirls/blob/main/banco/group.png"
+      "imagem": "https://github.com/niedjaraujos/api-loja-virtual-proGirls/blob/main/banco/group.png?raw=true"
     },
     {
       "nome": "SOFÁ RETRÁTIL 3 LUGARES SHELTER",
@@ -28,7 +28,7 @@
     {
       "nome": "SOFÁ 2 LUGARES C/ ALMOFADAS LEME",
       "preço": "R$ 3.938,70",
-      "imagem": "https://github.com/niedjaraujos/api-loja-virtual-proGirls/blob/main/banco/Leme.png"
+      "imagem": "https://github.com/niedjaraujos/api-loja-virtual-proGirls/blob/main/banco/Leme.png?raw=true"
     },
 
     {
@@ -50,13 +50,13 @@
       "id": "",
       "nome": "MESA ALLURE",
       "preço": "R$ 3.399,00",
-      "imagem": "https://github.com/niedjaraujos/api-loja-virtual-proGirls/blob/main/banco/allure.png"
+      "imagem": "https://github.com/niedjaraujos/api-loja-virtual-proGirls/blob/main/banco/allure.png?raw=true"
     },
 
     {
       "nome": "RACK COM PALHINHA ARES",
       "preço": "R$ 4.049,00",
-      "imagem": "https://github.com/niedjaraujos/api-loja-virtual-proGirls/blob/main/banco/ares.png"
+      "imagem": "https://github.com/niedjaraujos/api-loja-virtual-proGirls/blob/main/banco/ares.png?raw=true"
     },
     {
       "nome": "RACK KUMO",
