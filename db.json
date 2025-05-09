@@ -1,72 +1,229 @@
 {
-  "produtos": [
-    {
-      "nome": "SOFÁ MODULAR CANTO SOFO",
-      "preço": "R$ 2.549,00",
-      "imagem": "https://github.com/niedjaraujos/api-loja-virtual-proGirls/blob/main/banco/modular.png?raw=true"
-    },
-    {
-      "nome": "SOFÁ-CAMA 3 LUGARES SNOOZE",
-      "preço": "R$ 6.899,00",
-      "imagem": "https://github.com/niedjaraujos/api-loja-virtual-proGirls/blob/main/banco/snooze.png?raw=true"
-    },
-    {
-      "nome": "SOFÁ 3 LUGARES NORMAND",
-      "preço": "R$ 6.849,00",
-      "imagem": "https://github.com/niedjaraujos/api-loja-virtual-proGirls/blob/main/banco/normand.png?raw=true"
-    },
-    {
-      "nome": "SOFÁ MODULAR GROUP",
-      "preço": "R$ 2.549,00",
-      "imagem": "https://github.com/niedjaraujos/api-loja-virtual-proGirls/blob/main/banco/group.png?raw=true"
-    },
-    {
-      "nome": "SOFÁ RETRÁTIL 3 LUGARES SHELTER",
-      "preço": "R$ 9.449,00",
-      "imagem": "https://github.com/niedjaraujos/api-loja-virtual-proGirls/blob/main/banco/retratil.png?raw=true"
-    },
-    {
-      "nome": "SOFÁ 2 LUGARES C/ ALMOFADAS LEME",
-      "preço": "R$ 3.938,70",
-      "imagem": "https://github.com/niedjaraujos/api-loja-virtual-proGirls/blob/main/banco/Leme.png?raw=true"
-    },
-
-    {
-      "nome": "MESA COM 4 CADEIRAS NOAH",
-      "preço": "R$ 1.918,60",
-      "imagem": "https://github.com/niedjaraujos/api-loja-virtual-proGirls/blob/main/banco/noah.png?raw=true"
-    },
-    {
-      "nome": "MESA REDONDA OVNI",
-      "preço": "R$ 1.649,00",
-      "imagem": "https://raw.githubusercontent.com/niedjaraujos/api-loja-virtual-proGirls/refs/heads/main/banco/ovni.webp"
-    },
-    {
-      "nome": "MESA DE CENTRO REDONDA RIBS",
-      "preço": "R$ 1.849,00",
-      "imagem": "https://github.com/niedjaraujos/api-loja-virtual-proGirls/blob/main/banco/ribs.png?raw=true"
-    },
-    {
-      "id": "",
-      "nome": "MESA ALLURE",
-      "preço": "R$ 3.399,00",
-      "imagem": "https://github.com/niedjaraujos/api-loja-virtual-proGirls/blob/main/banco/allure.png?raw=true"
-    },
-
-    {
-      "nome": "RACK COM PALHINHA ARES",
-      "preço": "R$ 4.049,00",
-      "imagem": "https://github.com/niedjaraujos/api-loja-virtual-proGirls/blob/main/banco/ares.png?raw=true"
-    },
-    {
-      "nome": "RACK KUMO",
-      "preço": "R$ 1.549,00",
-      "imagem": "https://raw.githubusercontent.com/niedjaraujos/api-loja-virtual-proGirls/refs/heads/main/banco/kumo.webp"
-    },
-    {
-      "nome": "RACK NASH",
-      "preço": "R$ 2.649,00",
-      "imagem": "https://github.com/niedjaraujos/api-loja-virtual-proGirls/blob/main/banco/nash.png?raw=true"
+    "produtos": {
+        "sala": [
+            {
+                "nome": "SOFÁ MODULAR CANTO SOFO",
+                "preço": "R$ 2.549,00",
+                "imagem": "https://github.com/niedjaraujos/api-loja-virtual-proGirls/blob/main/banco/modular.png?raw=true"
+            },
+            {
+                "nome": "SOFÁ-CAMA 3 LUGARES SNOOZE",
+                "preço": "R$ 6.899,00",
+                "imagem": "https://github.com/niedjaraujos/api-loja-virtual-proGirls/blob/main/banco/snooze.png?raw=true"
+            },
+            {
+                "nome": "SOFÁ 3 LUGARES NORMAND",
+                "preço": "R$ 6.849,00",
+                "imagem": "https://github.com/niedjaraujos/api-loja-virtual-proGirls/blob/main/banco/normand.png?raw=true"
+            },
+            {
+                "nome": "SOFÁ MODULAR GROUP",
+                "preço": "R$ 2.549,00",
+                "imagem": "https://github.com/niedjaraujos/api-loja-virtual-proGirls/blob/main/banco/group.png?raw=true"
+            },
+            {
+                "nome": "SOFÁ RETRÁTIL 3 LUGARES SHELTER",
+                "preço": "R$ 9.449,00",
+                "imagem": "https://github.com/niedjaraujos/api-loja-virtual-proGirls/blob/main/banco/retratil.png?raw=true"
+            },
+            {
+                "nome": "SOFÁ 2 LUGARES C/ ALMOFADAS LEME",
+                "preço": "R$ 3.938,70",
+                "imagem": "https://github.com/niedjaraujos/api-loja-virtual-proGirls/blob/main/banco/Leme.png?raw=true"
+            },
+            {
+                "nome": "MESA DE CENTRO REDONDA RIBS",
+                "preço": "R$ 1.849,00",
+                "imagem": "https://github.com/niedjaraujos/api-loja-virtual-proGirls/blob/main/banco/ribs.png?raw=true"
+            },
+            {
+                "nome": "RACK COM PALHINHA ARES",
+                "preço": "R$ 4.049,00",
+                "imagem": "https://github.com/niedjaraujos/api-loja-virtual-proGirls/blob/main/banco/ares.png?raw=true"
+            },
+            {
+                "nome": "RACK KUMO",
+                "preço": "R$ 1.549,00",
+                "imagem": "https://raw.githubusercontent.com/niedjaraujos/api-loja-virtual-proGirls/refs/heads/main/banco/kumo.webp"
+            },
+            {
+                "nome": "RACK NASH",
+                "preço": "R$ 2.649,00",
+                "imagem": "https://github.com/niedjaraujos/api-loja-virtual-proGirls/blob/main/banco/nash.png?raw=true"
+            }
+        ],
+        "jantar": [
+            {
+                "nome": "MESA COM 4 CADEIRAS NOAH",
+                "preço": "R$ 1.918,60",
+                "imagem": "https://github.com/niedjaraujos/api-loja-virtual-proGirls/blob/main/banco/noah.png?raw=true"
+            },
+            {
+                "nome": "MESA REDONDA OVNI",
+                "preço": "R$ 1.649,00",
+                "imagem": "https://raw.githubusercontent.com/niedjaraujos/api-loja-virtual-proGirls/refs/heads/main/banco/ovni.webp"
+            },
+            {
+                "nome": "MESA ALLURE",
+                "preço": "R$ 3.399,00",
+                "imagem": "https://github.com/niedjaraujos/api-loja-virtual-proGirls/blob/main/banco/allure.png?raw=true"
+            },
+            {
+                "nome": "BUFFET 3 PORTAS LIN",
+                "preço": "R$ 639,00",
+                "imagem": "https://raw.githubusercontent.com/niedjaraujos/api-loja-virtual-proGirls/refs/heads/main/banco/buffet-lin.webp"
+            },
+            {
+                "nome": "MESA DOBRÁVEL OVAL TINA",
+                "preço": "R$ 1.229,00",
+                "imagem": "https://raw.githubusercontent.com/niedjaraujos/api-loja-virtual-proGirls/refs/heads/main/banco/tina.webp"
+            },
+            {
+                "nome": "CONJUNTO COM 2 CADEIRAS EASY WOOD",
+                "preço": "R$ 229,00",
+                "imagem": "https://raw.githubusercontent.com/niedjaraujos/api-loja-virtual-proGirls/refs/heads/main/banco/easywood.webp"
+            },
+            {
+                "nome": "APARADOR COM 2 GAVETAS 1,10 M X 35 CM FOLKSY",
+                "preço": "R$ 1.529,00",
+                "imagem": "https://raw.githubusercontent.com/niedjaraujos/api-loja-virtual-proGirls/refs/heads/main/banco/aparador.webp"
+            }
+        ],
+        "cozinha": [
+            {
+                "nome": "ARMÁRIO INFERIOR 2 PORTAS PRÁTICA",
+                "preço": "R$ 939,90",
+                "imagem": "https://github.com/niedjaraujos/api-loja-virtual-proGirls/blob/main/banco/pratica.png?raw=true"
+            },
+            {
+                "nome": "FRUTEIRA DE CHÃO BAMBOO",
+                "preço": "R$ 589,00",
+                "imagem": "https://github.com/niedjaraujos/api-loja-virtual-proGirls/blob/main/banco/bamboo.png?raw=true"
+            },
+            {
+                "nome": "ARMÁRIO SUPERIOR 3 PORTAS LIN",
+                "preço": "R$ 939,90",
+                "imagem": "https://raw.githubusercontent.com/niedjaraujos/api-loja-virtual-proGirls/refs/heads/main/banco/nozes-lin.webp"
+            },
+            {
+                "nome": "PANELEIRO 2 PORTAS NANCY",
+                "preço": "R$ 299,00",
+                "imagem": "https://raw.githubusercontent.com/niedjaraujos/api-loja-virtual-proGirls/refs/heads/main/banco/nancy.webp"
+            },
+            {
+                "nome": "CONJUNTO DE COZINHA 7 PEÇAS TOAST",
+                "preço": "R$ 4.799,00",
+                "imagem": "https://raw.githubusercontent.com/niedjaraujos/api-loja-virtual-proGirls/refs/heads/main/banco/toast.webp"
+            },
+            {
+                "nome": "CONJUNTO DE COZINHA 4 PEÇAS NANCY",
+                "preço": "R$ 2.349,00",
+                "imagem": "https://raw.githubusercontent.com/niedjaraujos/api-loja-virtual-proGirls/refs/heads/main/banco/nancy-4.webp"
+            },
+            {
+                "nome": "CONJUNTO DE COZINHA 6 PEÇAS TOARI",
+                "preço": "R$ 3.276,70",
+                "imagem": "https://github.com/niedjaraujos/api-loja-virtual-proGirls/blob/main/banco/toari.png?raw=true"
+            }
+        ],
+        "quarto": [
+            {
+                "nome": "CAMA DE CASAL VILA",
+                "preço": "R$ 1.549,00",
+                "imagem": "https://raw.githubusercontent.com/niedjaraujos/api-loja-virtual-proGirls/refs/heads/main/banco/vila.webp"
+            },
+            {
+                "nome": "CAMA-SOFÁ PALHANDI",
+                "preço": "R$ 2.949,00",
+                "imagem": "https://github.com/niedjaraujos/api-loja-virtual-proGirls/blob/main/banco/palhandi.png"
+            },
+            {
+                "nome": "SAPATEIRA/ARMÁRIO 1 PORTA TIMBER",
+                "preço": "R$ 1.549,00",
+                "imagem": "https://raw.githubusercontent.com/niedjaraujos/api-loja-virtual-proGirls/refs/heads/main/banco/timber.webp"
+            },
+            {
+                "nome": "CÔMODA 4 GAVETAS 90 CM X 45 CM MINCE",
+                "preço": "R$ 1.549,00",
+                "imagem": "https://raw.githubusercontent.com/niedjaraujos/api-loja-virtual-proGirls/refs/heads/main/banco/mince.webp"
+            },
+            {
+                "nome": "CAMA DE SOLTEIRO 88 CM VILA",
+                "preço": "R$ 889,00",
+                "imagem": "https://raw.githubusercontent.com/niedjaraujos/api-loja-virtual-proGirls/refs/heads/main/banco/solteiro-vila.webp"
+            },
+            {
+                "nome": "CABECEIRA QUEEN HIPNOS PLANOS",
+                "preço": "R$ 1.049,00",
+                "imagem": "https://raw.githubusercontent.com/niedjaraujos/api-loja-virtual-proGirls/refs/heads/main/banco/cabeceira.webp"
+            },
+            {
+                "nome": "GUARDA-ROUPAS 2 PORTAS DE CORRER FRIZ",
+                "preço": "R$ 1.149,00",
+                "imagem": "https://raw.githubusercontent.com/niedjaraujos/api-loja-virtual-proGirls/refs/heads/main/banco/guarda-friz.webp"
+            },
+            {
+                "nome": "GUARDA-ROUPAS 4 PORTAS MAXIMUS",
+                "preço": "R$ 2.549,00",
+                "imagem": "https://raw.githubusercontent.com/niedjaraujos/api-loja-virtual-proGirls/refs/heads/main/banco/maximus.webp"
+            }
+        ],
+        "escritorio": [
+            {
+                "nome": "MESA COM BALCÃO ALETA",
+                "preço": "R$ 3.299,00",
+                "imagem": "https://raw.githubusercontent.com/niedjaraujos/api-loja-virtual-proGirls/refs/heads/main/banco/aleta.webp"
+            },
+            {
+                "nome": "CADEIRA DE ESCRITÓRIO ALTA HOLT",
+                "preço": "R$ 1.599,00",
+                "imagem": "https://raw.githubusercontent.com/niedjaraujos/api-loja-virtual-proGirls/refs/heads/main/banco/holt.webp"
+            },
+            {
+                "nome": "CADEIRA DE ESCRITÓRIO FRESH",
+                "preço": "R$ 749,00",
+                "imagem": "https://github.com/niedjaraujos/api-loja-virtual-proGirls/blob/main/banco/fresh.png?raw=true"
+            },
+            {
+                "nome": "CADEIRA DE ESCRITÓRIO WEB",
+                "preço": "R$ 549,00",
+                "imagem": "https://raw.githubusercontent.com/niedjaraujos/api-loja-virtual-proGirls/refs/heads/main/banco/web.webp"
+            },
+            {
+                "nome": "LUMINÁRIA DE MESA HOIST",
+                "preço": "R$ 149,00",
+                "imagem": "https://raw.githubusercontent.com/niedjaraujos/api-loja-virtual-proGirls/refs/heads/main/banco/hoist.webp"
+            },
+            {
+                "nome": "GAVETEIRO PARA ESCRITÓRIO 3 GAVETAS LINO",
+                "preço": "R$ 349,00",
+                "imagem": "https://raw.githubusercontent.com/niedjaraujos/api-loja-virtual-proGirls/refs/heads/main/banco/lino.webp"
+            },
+            {
+                "nome": "CADEIRA DE ESCRITÓRIO ALTA LAVORO",
+                "preço": "R$ 3.549,00",
+                "imagem": "https://raw.githubusercontent.com/niedjaraujos/api-loja-virtual-proGirls/refs/heads/main/banco/alta-lavoro.webp"
+            },
+            {
+                "nome": "CESTO 30 CM SHOW",
+                "preço": "R$ 1.549,00",
+                "imagem": "https://github.com/niedjaraujos/api-loja-virtual-proGirls/blob/main/banco/show.png?raw=true"
+            },
+            {
+                "nome": "MOUSE PAD ENTRE-LÃ-ÇADOS",
+                "preço": "R$ 29,00",
+                "imagem": "https://github.com/niedjaraujos/api-loja-virtual-proGirls/blob/main/banco/entrelacado.png?raw=true"
+            },
+            {
+                "nome": "ORGANIZADOR DE MESA DUPLO SHOW",
+                "preço": "R$ 149,00",
+                "imagem": "https://github.com/niedjaraujos/api-loja-virtual-proGirls/blob/main/banco/show-dupla.png?raw=true"
+            },
+            {
+                "nome": "MESA PARA NOTEBOOK ALENTO",
+                "preço": "R$ 549,00",
+                "imagem": "https://raw.githubusercontent.com/niedjaraujos/api-loja-virtual-proGirls/refs/heads/main/banco/alento.webp"
+            }
+        ]
     }
-  ]
 }
